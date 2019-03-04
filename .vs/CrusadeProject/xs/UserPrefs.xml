@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8167FFAC-F611-41CA-865F-AFD1BDE1E9CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrusadeProject/Program.cs">
+    <Files>
+      <File FileName="CrusadeProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrusadeProject" expanded="True">
+            <Node name="CrusadeProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CrusadeProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
